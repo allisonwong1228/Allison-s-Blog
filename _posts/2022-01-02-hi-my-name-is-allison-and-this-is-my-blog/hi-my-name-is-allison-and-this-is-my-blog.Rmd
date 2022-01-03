@@ -1,0 +1,23 @@
+---
+title: "Hi! My name is Allison!"
+description: |
+  I decided I wanted to start a website/blog and create a positive mental space, while also posting many of my interests. The name of my Blog is 'Little White Orchids'. I picked this name because my favorite flowers are gardenias and white orchids; an orchid was the flower I thought I had made out of paper for my grandma when I was at school and ever since, I have loved orchids because of the sentimental ambience and the elegance of an orchid.
+author:
+  - name: Allison Wong
+    url: https://example.com/norajones
+date: 2022-01-02
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+

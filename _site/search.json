@@ -10,10 +10,10 @@
     },
     {
       "path": "index.html",
-      "title": "My Blog",
+      "title": "Little White Orchids",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-01-02T13:49:14-05:00"
+      "last_modified": "2022-01-02T20:03:16-05:00"
     }
   ],
   "collections": ["posts/posts.json"]

@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2022-01-02-hi-my-name-is-allison-and-this-is-my-blog/",
+    "title": "Hi! My name is Allison!",
+    "description": "I decided I wanted to start a website/blog and create a positive mental space, while also posting many of my interests. The name of my Blog is 'Little White Orchids'. I picked this name because my favorite flowers are gardenias and white orchids; an orchid was the flower I thought I had made out of paper for my grandma when I was at school and ever since, I have loved orchids because of the sentimental ambience and the elegance of an orchid.",
+    "author": [
+      {
+        "name": "Allison Wong",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-01-02",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-01-02T20:09:26-05:00",
+    "input_file": "hi-my-name-is-allison-and-this-is-my-blog.knit.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to My Blog",
     "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
